@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I use React v16 to build this video search app with 5 results using Google YouTube v3 API. For Ajax call i use Axios and For some design element i use sementic ui, i also use class and functional component with props and payload via event call back to flow the data. I also use built-in setState(callback) and setState({}) methods to state management. I deploy the app on my own server and build the app with ./ parameter to serve as static index file (in digital signage i have to work mostly without server so to test this i build the app in this way).
 
 ## Available Scripts
 
